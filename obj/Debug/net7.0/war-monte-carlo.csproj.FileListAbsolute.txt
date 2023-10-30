@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\war-monte-carlo\bin\Debug\net7.0\war-monte-carlo.exe
+C:\Users\disrct\Desktop\war-monte-carlo\bin\Debug\net7.0\war-monte-carlo.deps.json
+C:\Users\disrct\Desktop\war-monte-carlo\bin\Debug\net7.0\war-monte-carlo.runtimeconfig.json
+C:\Users\disrct\Desktop\war-monte-carlo\bin\Debug\net7.0\war-monte-carlo.dll
+C:\Users\disrct\Desktop\war-monte-carlo\bin\Debug\net7.0\war-monte-carlo.pdb
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.AssemblyInfo.cs
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.dll
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\refint\war-monte-carlo.dll
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.pdb
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\war-monte-carlo.genruntimeconfig.cache
+C:\Users\disrct\Desktop\war-monte-carlo\obj\Debug\net7.0\ref\war-monte-carlo.dll
